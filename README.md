@@ -1,1 +1,2 @@
-THIS IS A LEARNING PRACTICE FOR C LANGUAGE USED IN EMBERDED SYSTEMS 
+Hey Guys Welcome to my github 
+here i uplode projects,mylearnings,etc
